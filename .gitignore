@@ -3,3 +3,5 @@
 __pycache__/
 *.pyc
 git_practice/
+.DS_Store
+.DS_Store
